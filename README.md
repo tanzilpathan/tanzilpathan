@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tanzilpathan
-- 👀 I’m interested in MEAN / MERN stack
-- 🌱 I’m currently working on Angular
-- 💞️ I’m looking to collaborate on angular projects
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning MEAN stack
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me https://www.linkedin.com/in/tanzil-pathan-2a222a164/
 
 <!---
